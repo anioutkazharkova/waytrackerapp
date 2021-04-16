@@ -8,4 +8,4 @@ Contains:
 - SwiftUI code
 
 Under construction. Just snippet for Widgets available.
-Get full code later (18.04)
+Get full code later (16.04 - 18.04)
